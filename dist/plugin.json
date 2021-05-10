@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "OE zip catch",
+  "id": "id-oe-zip-catchment",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "OE zip catch",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2021-05-10"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
